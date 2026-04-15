@@ -1,0 +1,9 @@
+#profile-title: VPN by @DeaMorgan
+#profile-update-interval: 24
+#support-url: https://t.me/deamorgan
+#announce: По вопросам - t.me/deamorgan
+#subscription-userinfo: upload=0; download=0; total=10737418240; expire=1744934400
+
+0GB / 10GB
+Истекает: 20.04.2026
+
