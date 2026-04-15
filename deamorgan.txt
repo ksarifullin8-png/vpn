@@ -1,7 +1,7 @@
 #profile-title: VPN by @DeaMorgan
 #profile-update-interval: 24
 #support-url: https://t.me/deamorgan
-#announce: t.me/deamorgan
+#announce: По вопросам - t.me/deamorgan. Добавляю обходы каждый день. Всего 50 Telegram Stars
 #subscription-userinfo upload=0; download=0; total=0; expire=0
 
 vless://da415901-7658-49b9-8cbb-fee0e2a03bff@84.201.172.189:20103?security=reality&encryption=none&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&sid=2b145d99dc39e2cc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20LTE%20%7C%20%40deaMorgan
